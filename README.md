@@ -2,7 +2,7 @@
 
 Get perfect shadows every time for the non-designers
 
-#Installation
+# Installation
 
 `npm i add-box-shadow --save`
 

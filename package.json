@@ -1,0 +1,19 @@
+{
+  "name": "box-shadow-package",
+  "version": "1.1.0",
+  "description": "Add nice looking box-shadows to the html elements for non-designers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-manirsg:mani-rsg/box-shadow-package.git"
+  },
+  "keywords": [
+    "box",
+    "shadows"
+  ],
+  "author": "Manigandan Ravi",
+  "license": "ISC"
+}

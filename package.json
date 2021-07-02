@@ -1,6 +1,6 @@
 {
   "name": "box-shadow-package",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Add nice looking box-shadows to the html elements for non-designers",
   "main": "index.js",
   "scripts": {

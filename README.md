@@ -6,6 +6,8 @@ Get perfect shadows every time for the non-designers
 
 `npm i add-box-shadow --save`
 
+Add `"box-shadow-pkg"` as class name to the html elements that you wish to give a box shadow
+
 Then...
 
 ```
